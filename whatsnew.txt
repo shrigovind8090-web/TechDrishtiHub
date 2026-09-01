@@ -1,0 +1,11 @@
+Welcome to Tech Drishti Hub (Official App)! 🎉
+This is not just a tool; it's a complete dashboard for our blind community.
+
+🌟 Features Overview:
+1. Videos Dashboard: Get all latest Tech Drishti videos directly here.
+2. Playlists Section: Explore videos category-wise easily.
+3. Audio-Only Mode: Save data & battery! Play any video in background as MP3.
+4. Support Tab: Quick access to our Telegram, WhatsApp channels, and Second Channel (Drishti Tales Official).
+5. Auto-Update: You will automatically get future features without downloading new files.
+
+Use the Bottom Tabs to navigate. Enjoy the accessible experience!
